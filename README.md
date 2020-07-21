@@ -5,7 +5,7 @@ By adding this CARDLESS feature in ATM, one can withdrawal money by merely provi
 
 This solution is built on Python language using DJANGO.
 
-# APIs used:
+# REST APIs used:
 ------------
 a) Customer details (newly created on Python language using DJANGO)
 
