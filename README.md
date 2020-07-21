@@ -7,9 +7,9 @@ This solution is built on Python language using DJANGO.
 
 # APIs used:
 ------------
-a) Customer details (newly created on Python language using DJANGO.)
+a) Customer details (newly created on Python language using DJANGO)
 
-b) Send OTP (used from Twilio account(OTP generation platform))
+b) Send OTP (used from Twilio account-OTP generation platform)
 
 # Software Pre-requisites:
 --------------------------
