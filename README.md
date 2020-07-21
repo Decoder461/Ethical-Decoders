@@ -48,6 +48,6 @@ k) If any value is entered incorrectly, customer can also go back to previous sc
 # Test data:
 ------------
 
-Customer ID : 1001, Mobile Number : +919794844882
+Customer ID : 1001 , Mobile Number : +919794844882
 
-Customer ID :1004 , Mobile Number : +918887915332
+Customer ID : 1004 , Mobile Number : +918887915332
