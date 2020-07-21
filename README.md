@@ -37,15 +37,17 @@ g) Copy the localhost url from terminal and open in Chrome browser
 
 h) Enter Customer-ID and Mobile Number and press Submit.
 
-Test Samples:
-
-Customer ID : 1001, Mobile Number : +919794844882
-
-Customer ID :1004 , Mobile Number : +918887915332
-
 i) On next screen, enter 4-digit OTP received on mobile(same OTP will also be displayed on terminal for prototyping) along with 4-digit Secure PIN value 1234. 
 Press Submit.
 
 j) This takes us to the final ATM screen where the customer can perform all ATM services as BAU. 
 
 k) If any value is entered incorrectly, customer can also go back to previous screen using Try-again option provided on screen.
+
+
+# Test data:
+------------
+
+Customer ID : 1001, Mobile Number : +919794844882
+
+Customer ID :1004 , Mobile Number : +918887915332
