@@ -23,7 +23,7 @@ b) Download Python
 ------------------------------------------------------------
 a) Download code from GitHub into your local drive(C:) under pycharm Projects
 
-b) Launch pycharm & open the saved project. Change the project directory(.HACKATHON/HACKATHON/) using cd command.
+b) Launch pycharm & open the saved project. Change the project directory(.HACKATHON\HACKATHON\) using cd command.
 
 c) Configure django using command - pip install django
 
